@@ -1,5 +1,30 @@
 Sonido digital
 
+- [1	SONIDO](#1-sonido)
+  - [1.1	FRECUENCIA DE UN SONIDO](#11-frecuencia-de-un-sonido)
+  - [1.2	FORMA DE ONDA](#12-forma-de-onda)
+- [2. Generación de sonido](#2-generaci%c3%b3n-de-sonido)
+  - [2.1. Sonido en altavoces](#21-sonido-en-altavoces)
+  - [2.2. SONIDO DE LA VOZ](#22-sonido-de-la-voz)
+- [3	CAPTURA DEL SONIDO](#3-captura-del-sonido)
+  - [3.1	MICRÓFONOS](#31-micr%c3%93fonos)
+  - [3.2 Grabación de sonido](#32-grabaci%c3%b3n-de-sonido)
+    - [3.2.1. VINILOS](#321-vinilos)
+    - [3.2.2. CASSETTE Y CD](#322-cassette-y-cd)
+  - [3.3	INFORMÁTICA](#33-inform%c3%81tica)
+  - [3.4. TARJETAS DE SONIDO INTERNAS](#34-tarjetas-de-sonido-internas)
+  - [3.5. Tarjetas integradas](#35-tarjetas-integradas)
+- [4. DIGITALIZACIÓN DEL SONIDO](#4-digitalizaci%c3%93n-del-sonido)
+  - [4.1	FORMATO DE AUDIO DIGITAL](#41-formato-de-audio-digital)
+  - [4.2	COMPRESIÓN](#42-compresi%c3%93n)
+  - [4.3.	FORMATO MIDI](#43-formato-midi)
+- [5. PROGRAMAS DE AUDIO](#5-programas-de-audio)
+  - [5.1. REPRODUCTORES](#51-reproductores)
+  - [5.2.	DAWS](#52-daws)
+- [6.TRANSMISIÓN A TRAVÉS DE INTERNET](#6transmisi%c3%93n-a-trav%c3%89s-de-internet)
+  - [6.1. Streaming](#61-streaming)
+  - [6.2. Podcast](#62-podcast)
+
 ![](img/2020-03-31-10-54-55.png)
 
 # 1	SONIDO
@@ -217,7 +242,14 @@ Guarda descripción musical de un audio. El sonido final depende del instrumento
 
 ![](img/2020-03-31-11-04-08.png)
 
+Gracias a esta tecnología, entre otras cosas, podemos emular, utilizando teclados midi, el sonido de cualquier instrumento, desde una batería hasta una guitarra, etc. Con solo una herramienta, podemos crear una canción musical completa.
+
 ![](img/2020-03-31-11-04-12.png)
+
+Ejemplos:
+
+- https://www.youtube.com/watch?v=C_C0rAKiBEA
+- https://www.youtube.com/watch?v=WaHMwMruD80
 
 # 5. PROGRAMAS DE AUDIO
 
@@ -250,13 +282,15 @@ Algunos ejemplos son:
 
 # 6.TRANSMISIÓN A TRAVÉS DE INTERNET
 
+## 6.1. Streaming
+
 El **streaming** consiste en transmitir sonido o vídeo digital a través de internet en tiempo real. Permite escuchar música a la carta sin descargar todo el archivo previamente
 
 Se financian a través de publicidad o mediante suscripción.
 
 ![](img/2020-03-31-11-05-40.png)
 
-## 6.1	PODCAST
+## 6.2. Podcast
 
 Se trata de un archivo de sonido digital creado para ser difundido por Internet. 
 Cualquiera puede escucharlo en el momento que desee desde un ordenador o dispositivo portátil.

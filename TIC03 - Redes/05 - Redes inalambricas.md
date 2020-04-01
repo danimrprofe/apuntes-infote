@@ -24,26 +24,38 @@
 
 ## 1. INTRODUCCIÓN
 
-- Las redes más sencillas y económicas son por medio de cables. 
-- Si los ordenadores están próximos y permanecen siempre en el mismo sitio, esta puede ser la mejor opción. 
-- La tecnología inalámbrica es especialmente útil si:
-–	Si los ordenadores están alejados
-–	Los cables pueden molestar
-–	Se quiere disfrutar de la conexión a Internet en cualquier rincón
+- Las redes más sencillas y económicas son las realizadas por medio de cables.
+- Si los ordenadores están próximos y permanecen siempre en el mismo sitio, esta puede ser la mejor opción.
+
+La tecnología inalámbrica es especialmente útil si:
+
+- Si los ordenadores están alejados
+- Los cables pueden molestar
+- Se quiere disfrutar de la conexión a Internet en cualquier rincón
 - La instalación de una red inalámbrica presenta muchas ventajas. La principal, es que no hay cables por en medio
+
+Las tecnologías de redes inalámbricas más extendidas son:
+
+- Bluetooth
+- Telefonía móvil (3G, 4G)
+- Wifi
+
+En general todos utilizamos una combinación de ellas, puesto que según el uso que queramos dar y dónde nos encontremos, nos serán más o menos convenientes.
+
+![](img/2020-04-01-11-50-12.png)
 
 ## 2. WIFI
 
-Las redes wifi tienen las siguientes ventajas:
+Las redes wifi tienen las siguientes ventajas, con respecto a las conexiones por cable:
 
-- Comodidad: muy superior a las redes cableadas. Cualquiera que tenga acceso a la red puede conectarse desde distintos puntos dentro de un rango de espacio
+- **Comodidad**: muy superior a las redes cableadas. Cualquiera que tenga acceso a la red puede conectarse desde distintos puntos dentro de un rango de espacio
 - Instalación: permiten el acceso de múltiples ordenadores sin ningún problema ni gasto en infraestructura, ni gran cantidad de cables.
-- Compatibilidad: En cualquier parte del mundo podremos utilizar la tecnología Wifi.
+- **Compatibilidad**: En cualquier parte del mundo podremos utilizar la tecnología Wifi.
 Por el contrario, también presentan algunos inconvenientes, como, por ejemplo:
-- Menor velocidad en comparación a una conexión cableada, debido a interferencias y pérdidas de señal
-- Seguridad. Existen algunos programas capaces de capturar paquetes, de forma que puedan calcular la contraseña de la red y de esta forma acceder a ella. 
-- No se puede controlar el área de cobertura de una conexión, de manera que un receptor se puede conectar desde fuera de la zona de recepción prevista (e.g. desde fuera de una oficina, desde una vivienda colindante).
-- No es compatible con otros tipos de conexiones sin cables como Bluetooth, GPRS, UMTS, etc.
+- **Menor velocidad** en comparación a una conexión cableada, debido a interferencias y pérdidas de señal
+- **Seguridad**. Existen algunos programas capaces de capturar paquetes, de forma que puedan calcular la contraseña de la red y de esta forma acceder a ella. 
+- No se puede controlar el área de **cobertura** de una conexión, de manera que un receptor se puede conectar desde fuera de la zona de recepción prevista (e.g. desde fuera de una oficina, desde una vivienda colindante).
+- No es **compatible** con otros tipos de conexiones sin cables como Bluetooth, GPRS, UMTS, etc.
 
 ### 2.1	ESTÁNDARES
 
@@ -69,6 +81,8 @@ A medida que la investigación avanza, se crean versiones nuevas, que proporcion
 
 Es importante que los equipos que se desea conectar a una red wifi entiendan el mismo “idioma” y por tanto utilicen versiones de wifi que entiendan todos.
 
+    Actividad: adjunta una captura de las redes wifi que detectas con tu móvil
+
 ### 2.2. DISPOSITIVOS WIFI
 
 Para poder crear una red wifi, necesitamos:
@@ -92,9 +106,13 @@ Se agregan (o vienen de fábrica) a los ordenadores de sobremesa. Hoy en día es
 
 ![](img/2020-03-31-14-39-22.png)
 
+
 **Tarjetas PCMCIA**
 Modelo que se utilizó mucho en los primeros ordenadores portátiles, Hoy en día internas en estos ordenadores. 
 ![](img/2020-03-31-14-40-12.png)
+
+
+![](img/2020-04-01-11-49-31.png)
 
 **Antenas USB**
 Tipo más común que existe en las tiendas y más sencillo de conectar a un pc, ya sea de sobremesa o portátil
@@ -113,18 +131,21 @@ La mayoría de dispositivos hoy en día disponen de adaptadores Wi-Fi en los cir
 
 ![](img/2020-03-31-14-40-01.png)
 
+    Actividad: explica qué equipos de tu casa están conectados a través de Wifi, y cuáles de los dispositivos anteriores utiliza cada uno de ellos para poderse conectar
+
 ### 2.4	EQUIPOS DE RED
 
 Generalmente los equipos no se conectan directamente entre ellos, sino que necesitan un equipo de red, como por ejemplo un router, para qué gestione la red, los comunique a todos entre ellos, y les de salida a internet. Para ello existen diferentes equipos:
 
 ### 2.4.1	PUNTO DE ACCESO
 
-- Generan una Red WiFi a la que se pueden conectar otros dispositivos. 
-- Permiten conectar dispositivos en forma inalámbrica a una red existente. 
+Cuando tenemos un edificio o casa muy grande, podemos necesitar ampliar la cobertura de nuestra red. Los **puntos de acceso** generan una Red WiFi a la que se pueden conectar otros dispositivos. 
+
+Permiten conectar dispositivos en forma inalámbrica a una red existente. 
 
 ![](img/2020-03-31-14-40-40.png)
-- Pueden agregarse más puntos de acceso a una red para generar redes de cobertura más amplia
-- Suelen estar en las paredes de los pasillos en edificios grandes.
+
+Pueden agregarse más puntos de acceso a una red para generar redes de cobertura más amplia. Suelen estar en las paredes de los pasillos en edificios grandes.
 
 ![](img/2020-03-31-14-40-29.png)
 
@@ -145,6 +166,10 @@ Generalmente los equipos no se conectan directamente entre ellos, sino que neces
 - Las antenas nos permiten transmitir y recibir la señal de radiofrecuencia para comunicar por Wifi con los diferentes equipos. 
 
 ![](img/2020-03-31-14-40-54.png)
+
+    Actividad: Explica qué equipos de red de los anteriores tienes en tu casa, y adjunta una foto de ellos. 
+
+    Actividad: ¿Cuales de ellos crees que te sería más útil si vivieras en una casa de 3 pisos? ¿Por qué?
 
 ### 2.5	SEGURIDAD EN REDES WIFI
 
@@ -170,6 +195,8 @@ También podemos ver la clave, necesaria para podernos conectar. También tenemo
 
 ![](img/2020-03-31-14-41-29.png)
 
+    Actividad: adjunta una foto de la etiqueta de tu router. Tapa la clave a ser posible con paint o alguna herramienta de google docs. ¿Cuántas redes wifi tienes y cómo se llaman?¿a cual o cuales te conectas?
+
 #### 2.5.2	REDES 5 GHZ Y 2.4 GHZ 
 
 Muchos habréis visto que tenéis en casa o podéis tener dos redes wifi diferentes. Una funciona con ondas de 5 GHz y otra de 2.4 GHz. Son como diferentes canales de radio. En función de lo que queramos hacer, nos conviene una u otra.
@@ -193,11 +220,16 @@ En primer lugar, se crea una lista en el router, donde agregaremos todas las dir
 
 ![](img/2020-03-31-14-41-48.png)
 
+    Actividad: imagina que quieres bloquear el móvil de tus padres para que no se conecten a la wifi. Qué información necesitas saber de sus teléfonos y del router y qué pasos tienes que seguir para hacerlo?
+
 #### 2.5.4	OCULTACIÓN DE RED
 
-Una forma de evitar que alguien se conecte a mi red wifi es ocultarla. Esto se llama ocultación del punto de acceso (SSID). De este modo, la red no se muestra en la lista de redes wifi para conectarse y por tanto es invisible a otros usuarios.
+Una forma de evitar que alguien se conecte a mi red wifi es ocultarla. Esto se llama ocultación del punto de acceso (ocultación SSID). De este modo, la red no se muestra en la lista de redes wifi para conectarse y por tanto es invisible a otros usuarios.
 
-Los que sí conocen el nombre de la red wifi la pueden escribir a mano y conectarse, por lo que necesitan saber el nombre de antemano.
+![](img/2020-04-01-12-15-52.png)
+
+Los que sí conocen el nombre de la red wifi la pueden **escribir a mano el nombre de la red wifi** y conectarse, por lo que necesitan saber el nombre de antemano.
+
 También podríamos directamente desactivar la red wifi si solo conectamos al router con cables. De este modo, nadie se podrá conectar por wifi a nuestra red.
 
 ![](img/2020-03-31-14-41-57.png)
@@ -206,12 +238,15 @@ También podríamos directamente desactivar la red wifi si solo conectamos al ro
 
 ### 3.1	INTRODUCCIÓN
 
-- Bluetooth es una tecnología desarrollada para la comunicación inalámbrica de datos de corto alcance. 
-- Características
-–	Baja complejidad
-–	Bajo consumo
-–	Bajo costo. 
-- Tiene la capacidad de atravesar paredes y maletines, por lo cual es ideal tanto para el trabajo móvil, como el trabajo en oficinas
+Bluetooth es una tecnología desarrollada para la comunicación inalámbrica de datos de corto alcance.
+
+Algunas de sus características:
+
+- Baja complejidad
+- Bajo consumo
+-	Bajo costo
+
+Bluetooth, al igual que Wifi, tiene la capacidad de atravesar paredes y maletines, por lo cual es ideal tanto para el trabajo móvil, como el trabajo en oficinas.
 
 ### 3.2	OBJETIVOS
 
@@ -237,6 +272,11 @@ También podríamos directamente desactivar la red wifi si solo conectamos al ro
 –	Una frase larga
 - Se comprueba el código en el dispositivo maestro y en el esclavo.
 - Si es el mismo, se establece el emparejamiento y comienza el traspaso de información.
+
+Actividad: 
+
+    Habilita bluetooth en tu móvil y adjunta una captura de las conexiones bluetooth disponibles.
+
 
 ### 3.4	EJEMPLOS
 
@@ -268,3 +308,5 @@ Otro caso interesante es el de los sistemas de sonido home cinema, en los que te
 En este caso, la barra de sonido sí estaría conectada al televisor, pero el subwoofer se conectaría con la barra a través de Bluetooth.
 
 ![](img/2020-03-31-14-42-30.png)
+
+    Actividad: de todos los ejemplos anteriores, explica cuales de ellos tenéis en casa tú o algún miembro de tu familia. ¿Qué inconvenientes crees que pueden tener?
