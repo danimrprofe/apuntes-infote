@@ -2,7 +2,7 @@ Sonido digital
 
 - [1	SONIDO](#1-sonido)
   - [1.1	FRECUENCIA DE UN SONIDO](#11-frecuencia-de-un-sonido)
-  - [1.2	FORMA DE ONDA](#12-forma-de-onda)
+  - [1.2 FORMA DE ONDA](#12-forma-de-onda)
 - [2. Generación de sonido](#2-generaci%c3%b3n-de-sonido)
   - [2.1. Sonido en altavoces](#21-sonido-en-altavoces)
   - [2.2. SONIDO DE LA VOZ](#22-sonido-de-la-voz)
@@ -41,7 +41,7 @@ El sonido se propaga por un medio físico que generalmente es el aire, pero no e
 
 ## 1.1	FRECUENCIA DE UN SONIDO
 
-La frecuencia de sonido es el número de vibraciones por segundo que produce. Se mide en Herzios (Hz), aunque generalmente se utilizan unidades más grandes: KHz, MHz
+La frecuencia de sonido es el número de vibraciones por segundo que produce. Se mide en Herzios (Hz), aunque generalmente se **utilizan** unidades más grandes: KHz, MHz
 Los sonidos agudos tienen una frecuencia más alta, mientras que los sonidos graves tienen frecuencias más bajas. 
 
 ![](img/2020-03-31-10-56-12.png)
@@ -58,7 +58,7 @@ Los sonidos por encima del máximo humano se llaman ultrasonidos, y pueden ser p
 
 ![](img/2020-03-31-10-56-45.png)
 
-## 1.2	FORMA DE ONDA
+## 1.2 FORMA DE ONDA
 
 Normalmente los sonidos o canciones contienen más de una frecuencia, puesto que están compuestos de varios instrumentos y voces al mismo tiempo.
 

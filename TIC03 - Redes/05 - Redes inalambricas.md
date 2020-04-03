@@ -15,7 +15,7 @@
       - [2.5.1	ENCRIPTACIÓN](#251-encriptaci%c3%93n)
       - [2.5.2	REDES 5 GHZ Y 2.4 GHZ](#252-redes-5-ghz-y-24-ghz)
       - [2.5.3.	Bloquear el acceso utilizando filtrado MAC](#253-bloquear-el-acceso-utilizando-filtrado-mac)
-      - [2.5.4	OCULTACIÓN DE RED](#254-ocultaci%c3%93n-de-red)
+      - [2.5.4.	OCULTACIÓN DE RED](#254-ocultaci%c3%93n-de-red)
   - [3.	BLUETOOTH](#3-bluetooth)
     - [3.1	INTRODUCCIÓN](#31-introducci%c3%93n)
     - [3.2	OBJETIVOS](#32-objetivos)
@@ -24,8 +24,7 @@
 
 ## 1. INTRODUCCIÓN
 
-- Las redes más sencillas y económicas son las realizadas por medio de cables.
-- Si los ordenadores están próximos y permanecen siempre en el mismo sitio, esta puede ser la mejor opción.
+Las redes más extendidas hasta hace poco eran las realizadas por medio de cables.  Si los ordenadores están próximos y permanecen siempre en el mismo sitio, esta puede ser la mejor opción.
 
 La tecnología inalámbrica es especialmente útil si:
 
@@ -109,16 +108,23 @@ Se agregan (o vienen de fábrica) a los ordenadores de sobremesa. Hoy en día es
 
 **Tarjetas PCMCIA**
 Modelo que se utilizó mucho en los primeros ordenadores portátiles, Hoy en día internas en estos ordenadores. 
+
 ![](img/2020-03-31-14-40-12.png)
+
+Como véis en la imagen, los ordenadores y portátiles más antiguos necesitan estos accesorios para poderse conectar a una red WiFi.
 
 
 ![](img/2020-04-01-11-49-31.png)
 
 **Antenas USB**
-Tipo más común que existe en las tiendas y más sencillo de conectar a un pc, ya sea de sobremesa o portátil
-Haciendo uso de todas las ventajas que tiene la tecnología USB.
+
+Más adelante, y aprovechando que todos los equipos traían de serie puertos USB, estas tarjetas se fabricaron con forma de **pendrive**, más sencillo de conectar a un pc, ya sea de sobremesa o portátil. Haciendo uso de todas las ventajas que tiene la tecnología USB.
 
 ![](img/2020-03-31-14-39-45.png)
+
+También se popularizaron los adaptadores USB para conectarse a redes de datos móviles, llamados **modem USB**. Estos nos permitían conectarnos a una red móvil desde un ordenador portátil, por ejemplo.
+
+![](img/2020-04-03-11-22-12.png)
 
 **Circuitos internos**
 
@@ -131,7 +137,18 @@ La mayoría de dispositivos hoy en día disponen de adaptadores Wi-Fi en los cir
 
 ![](img/2020-03-31-14-40-01.png)
 
+
     Actividad: explica qué equipos de tu casa están conectados a través de Wifi, y cuáles de los dispositivos anteriores utiliza cada uno de ellos para poderse conectar
+
+
+**Internet de las cosas**
+
+En la actualidad y en un futuro próximo, cualquier equipo eléctrico y electrónico (lavadoras, luces, neveras) de nuestra casa se podrá conectar a una red Wifi o Bluetooth y, por tanto a Internet. Esto se conoce como "internet de las cosas" o IoT.
+
+Esto, unido a los **asistentes de voz** como Alexa, Siri o Google home, abre un nuevo mundo de posibilidades, puesto que podemos dar órdenes con nuestra voz y así conseguir que otros equipos hagan ciertas cosas, como encender las luces, o ponernos una película en la televisión, por ejemplo.
+
+![](img/2020-04-03-11-29-55.png)
+
 
 ### 2.4	EQUIPOS DE RED
 
@@ -199,7 +216,7 @@ También podemos ver la clave, necesaria para podernos conectar. También tenemo
 
 #### 2.5.2	REDES 5 GHZ Y 2.4 GHZ 
 
-Muchos habréis visto que tenéis en casa o podéis tener dos redes wifi diferentes. Una funciona con ondas de 5 GHz y otra de 2.4 GHz. Son como diferentes canales de radio. En función de lo que queramos hacer, nos conviene una u otra.
+Muchos habréis visto que tenéis en casa o podéis tener dos redes wifi diferentes. Las dos las crea vuestro router. Una funciona con ondas de 5 GHz (Gigaherzios) y otra de 2.4 GHz. Son como diferentes canales de radio. En función de lo que queramos hacer, nos conviene una u otra.
 
 - La de 5 GHz nos ofrece más velocidad, pero llega menos lejos, por lo que es conveniente si estamos cerca. Funciona muy bien para jugar online, o servicios de Streaming (Netflix, HBO)
 - La de 2.4 GHz es mejor para chatear, enviar emails o navegar por la red.
@@ -222,9 +239,9 @@ En primer lugar, se crea una lista en el router, donde agregaremos todas las dir
 
     Actividad: imagina que quieres bloquear el móvil de tus padres para que no se conecten a la wifi. Qué información necesitas saber de sus teléfonos y del router y qué pasos tienes que seguir para hacerlo?
 
-#### 2.5.4	OCULTACIÓN DE RED
+#### 2.5.4.	OCULTACIÓN DE RED
 
-Una forma de evitar que alguien se conecte a mi red wifi es ocultarla. Esto se llama ocultación del punto de acceso (ocultación SSID). De este modo, la red no se muestra en la lista de redes wifi para conectarse y por tanto es invisible a otros usuarios.
+Una forma de evitar que alguien se conecte a mi red wifi es ocultarla. Si nadie ve el nombre de la Wifi de nuestra casa, es más difícil que puedan conectarse a ella. Esto se llama ocultación del punto de acceso (ocultación SSID). De este modo, la red no se muestra en la lista de redes wifi para conectarse y por tanto es invisible a otros usuarios.
 
 ![](img/2020-04-01-12-15-52.png)
 
@@ -236,47 +253,47 @@ También podríamos directamente desactivar la red wifi si solo conectamos al ro
 
 ## 3.	BLUETOOTH
 
+![](img/2020-04-03-11-44-23.png)
+
 ### 3.1	INTRODUCCIÓN
 
-Bluetooth es una tecnología desarrollada para la comunicación inalámbrica de datos de corto alcance.
+Bluetooth es una tecnología desarrollada para la comunicación inalámbrica de datos de **corto alcance**.
 
 Algunas de sus características:
 
 - Baja complejidad
 - Bajo consumo
--	Bajo costo
+- Bajo costo
 
 Bluetooth, al igual que Wifi, tiene la capacidad de atravesar paredes y maletines, por lo cual es ideal tanto para el trabajo móvil, como el trabajo en oficinas.
 
 ### 3.2	OBJETIVOS
 
-- Principales objetivos que se pretenden conseguir con esta norma son:
-–	Facilitar las comunicaciones entre equipos móviles.
-–	Eliminar los cables y conectores entre estos.
-–	Ofrecer la posibilidad de crear pequeñas redes inalámbricas y facilitar la sincronización de datos entre equipos personales.
+Los principales objetivos que se pretenden son:
+
+- Facilitar las comunicaciones entre equipos móviles.
+- Eliminar los cables y conectores entre estos.
+- Ofrecer la posibilidad de crear pequeñas redes inalámbricas y facilitar la sincronización de datos entre equipos personales.
 - Bluetooth es particularmente conveniente en ciertas situaciones, por ejemplo, 
-–	Al transferir archivos de un teléfono móvil a otro sin cables. 
-–	Enviar música y fotos entre una PC y un teléfono móvil es otra aplicación útil.
+- Al transferir archivos de un teléfono móvil a otro sin cables. 
+- Enviar música y fotos entre una PC y un teléfono móvil es otra aplicación útil.
 
 ### 3.3	CONFIGURACIÓN Y CONEXIÓN DE DISPOSITIVOS
 
-- Primero se debe establecer el SSID del dispositivo, ponerle un nombre.
-- Para establecer comunicación entre dispositives hay que emparejarlos
-- Se sigue una estructura maestro-esclavó
-–	Se activan los dos dispositives
-–	Maestro: debe estar visibles en un radio inferior de 10 m.
-–	Esclavo: se encarga de buscar otros dispositives dentro del radio.
-- Cuando se encuentra un dispositivo, se inicia un protocolo de seguridad basado en código.
-- El código puede ser
-–	Cuatro cifras
-–	Una frase larga
-- Se comprueba el código en el dispositivo maestro y en el esclavo.
-- Si es el mismo, se establece el emparejamiento y comienza el traspaso de información.
+Para establecer comunicación entre dispositives hay que **emparejarlos**. En algunos dispositivos veréis que también se llama **vincular**. Es decir, tenemos que buscar primero con qué dispositivo nos queremos conectar.
 
-Actividad: 
+Para el funcionamiento se sigue una estructura maestro-esclavo y funciona del siguiente modo:
 
+1. Se activan los dos dispositives
+2. El maestro (auriculares) debe estar visibles en un radio inferior de 10 m.
+3. El esclavo (smartphone) se encarga de buscar otros dispositivos dentro del radio.
+
+![](img/2020-04-03-11-40-55.png)
+
+Cuando se encuentra un dispositivo, se inicia un protocolo de seguridad basado en código. En ocasiones se nos pedirá un código. Se comprueba el código en el dispositivo maestro y en el esclavo. Si es el mismo, se establece el emparejamiento y comienza el traspaso de información.
+
+    Actividad: 
     Habilita bluetooth en tu móvil y adjunta una captura de las conexiones bluetooth disponibles.
-
 
 ### 3.4	EJEMPLOS
 

@@ -6,6 +6,9 @@
 
 Nuestros ojos ven en todo momento las imágenes que le llegan a través de la luz. Como es imposible grabarlo todo, para grabar vídeo se toman fotos llamadas **fotogramas** cada cierto tiempo y se juntan todas.
 
+
+La retina de nuestro ojo tiene la propiedad de retener durante unos instantes lo último que ha visto, de modo cuando vemos una secuencia de imágenes que cambia rápidamente, las imágenes se superponen en nuestra retina unas sobre otras, dando la sensación de continuidad y movimiento.
+
 Al reproducirse una detrás de la otra a mucha velocidad dan sensación de continuidad y "confunden" al ojo humano. 
 
 
@@ -26,13 +29,9 @@ Cada fotograma (frame) se divide en líneas horizontales y líneas verticales. C
 La relación de aspecto nos indica la proporción o relación entre anchura (x) y altura (y). Se expresa como x:y
 
 - En la televisión tradicional esta ha sido siempre de 4:3, pues esta era la forma de las televisiones.
-- Actualmente, debido a la alta definición se utiliza más el formato panorámico, más alargado y similar a la vista humana. 
+- Actualmente, debido a la alta definición se utiliza más el formato panorámico, más alargado y similar a la vista humana. El formato llamado panorámico es el de 16:9 o dieciséis novenos.
 
-![](img/2020-03-31-15-21-35.png)
-
-El formato llamado panorámico es el de 16:9 o dieciséis novenos.
-
-![](img/2020-03-31-15-28-15.png)
+![](img/2020-04-03-15-05-07.png)
 
 En caso de que el la relación de aspecto del vídeo y del móvil, televisión o dispositivo en el que lo esté viendo no coincida, se rellena con **bandas negras**.
 
@@ -69,6 +68,8 @@ Los vídeos están formados por muchas fotos, una detrás de la otra. A cada una
 
 La unidad utilizada es **frames por segundo (fps)**. A mayor tasa de frames por segundo, la imagen se verá más fluída. Si la tasa es muy baja, puede llegar a marear, además de verse mal.
 
+![](img/2020-04-03-15-08-52.png)
+
 Habitualmente:
 
 - Televisión: 25 fps
@@ -80,6 +81,8 @@ Hoy en día se llegan a grabar vídeos de 50 o 60 FPS, un valor más elevado. El
 - Ocupan mucho más espacio.
 - Tardan más sen subirse a Internet
 
+
+
 Los FPS se suelen indicar a continuación de la resolución:
 
 - 1080p60 sería un vídeo Full HD con 60 frames por segundo
@@ -89,25 +92,31 @@ Los FPS se suelen indicar a continuación de la resolución:
 
 # Alta definición
 
-Hoy en día la mayoría de equipos que pueden procesar y reproducir video en alta definición. Alta definición se aplica al contenido que tiene más de 720 píxeles de alto.Se etiquetan con:
+Hoy en día la mayoría de equipos que pueden procesar y reproducir video en alta definición. Alta definición se aplica al contenido que tiene más de 720 píxeles de alto. Se etiquetan con:
 
-- HD para una calidad de 720p
-- Full HD para una calidad de 1080p
-- 4k para una calidad equivalente a 4 pantallas FullHD juntas (2160p).
+- **HD** para una calidad de 720p
+- **Full HD** para una calidad de 1080p
+- **4K** para una calidad equivalente a 4 pantallas FullHD juntas (2160p).
+
+Los equipos que compramos traen etiquetas en las cajas que nos indican de la calidad de vídeo que permiten visualizar o grabar.
 
 ![](img/2020-03-31-15-22-58.png)
 
-Existen calidades de vídeo por encima del FullHD, como 4K o incluso 8K. Como se puede apreciar, en el mismo tamaño de televisión caben más píxeles, y por tanto la definición y la calidad de la imagen es mayor.
+Existen calidades de vídeo por encima del FullHD, como **4K** o incluso **8K**. Como se puede apreciar, en el mismo tamaño de televisión caben más píxeles, y por tanto la definición y la calidad de la imagen es mayor.
 
 ![](img/2020-03-31-16-12-21.png)
 
 Para poder ver películas o series en 4K o superior, necesitamos:
 
-- Tener un monitor compatible con esta tecnología. Si nuestra televisión es fullHD no podremos ver nada grabado a 4k.
-- Que la película o la serie que veamos esté grabada a 4K. Si no lo está, se verá con menor calidad de la esperada, por mucho que la televisión sea 4K.
-- La conexión a Internet tiene que ser suficientemente rápida para permitir recibir el contenido en 4K. Si tenemos contratado, por ejemplo, Netflix a 4K, pero nuestra conexión de internet es muy lenta, solo lo veremos en FullHD o menor. 
+- Tener un **monitor** compatible con esta tecnología. Si nuestra televisión es fullHD no podremos ver nada grabado a 4k.
+- Que la **película** o la serie que veamos esté grabada a 4K. Si no lo está, se verá con menor calidad de la esperada, por mucho que la televisión sea 4K.
+- La **conexión a Internet** tiene que ser suficientemente rápida para permitir recibir el contenido en 4K. Si tenemos contratado, por ejemplo, Netflix a 4K, pero nuestra conexión de internet es muy lenta, solo lo veremos en FullHD o menor. 
 
 ![](img/2020-03-31-16-12-16.png)
+
+Como los discos Blu-ray no tienen capacidad suficiente para guardar una película en formato 4K (es mucho más grande), se inventó el formato **Blu-ray Ultra HD**. Las películas grabadas en un Blu-ray convencional, solo pueden almacenar video en FullHD (1080).
+
+![](img/2020-04-03-15-11-13.png)
 
 # Bitrate o flujo de bits
 
