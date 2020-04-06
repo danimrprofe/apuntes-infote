@@ -154,41 +154,73 @@ De este modo se graban muchos de los videotutoriales y partidas de videojuegos q
 
 # Dispositivos de captura
 
-Para poder grabar vídeo, podemos utilizar:
+Para poder grabar vídeo, podemos utilizar diferentes dispositivos. La evolución en la captura de vídeo doméstico has sido la siguiente:
 
-- Cámaras (miniDV,DVD, de memoria)
-- Webcam
-- Cámaras de fotos
-- Teléfonos móviles
-- Tablets
+- Generalmente se han utilizado cámaras que grababan primero en cintas, y más adelante en mini DVDs. Las cámaras de vídeo y de fotos eran completamente independientes.
+- Posteriormente aparecieron las **webcam**, que nos permitían conectarlas directamente a un ordenador y transmitir lo grabado, permitiendo las **videoconferencias**.
+- Las **cámaras de fotos digitales** se volvieron más pequeñas y asequibles, y con el tiempo permitieron la grabación de vídeo.
+- Por último, **teléfonos móviles y tablets** han ido incorporando también cámaras que permiten grabar vídeo y tomar fotos. Al tener estos dispositivos conexión a Internet integrada, el proceso de grabar y compartir las grabaciones se hace mucho más rápido.
 
 ![](img/2020-03-31-15-23-49.png)
 
 
 ![](img/2020-03-31-15-23-53.png)
 
+## Tarjetas de memoria
+
+Con la invención de las **tarjetas de memoria**, los vídeos se pasan a grabar en estas tarjetas. Las tarjetas se pueden intercambiar entre dispositivos, y gracias a ellas tenemos más espacio para guardar fotos o vídeos.
+
+![](img/2020-04-06-12-04-53.png)
+
+## Memoria interna
+
+Los dispositivos tienen una **memoria interna** dentro, que no se puede extraer. Se utiliza para guardar las apps y el sistema operativo. Con el tiempo estas memorias se han hecho más grandes y, en general, ya no suele ser necesaria una tarjeta de memoria para guardar vídeo, fotos o música, sino que se guardan en la memoria interna del dispositivo.
+
+![](img/2020-04-06-12-05-44.png)
+
+## Servicios en la nube
+
+Tanto las tarjetas como la memoria interna necesitaban de una conexión a un ordenador o portátil para poder editar el vídeo, así como guardarlo o subirlo a internet y compartirlo, generalmente mediante un cable tipo USB o firewire.
+
+Hoy en día las **conexiones de datos** han aumentado de velocidad y las tecnologías inalámbricas o Bluetooth han permitido la conexión sin cable. Esto, junto a que las compañías ofrecen servicios de **almacenamiento en la nube** y las redes sociales, han permitido que el vídeo ya no sea necesario  enviarlo a otro dispositivo, sino que lo podemos grabar, editar y subir a Internet directamente.
+
+![](img/2020-04-06-12-07-03.png)
+
+Existen también plataformas de vídeo online, como **Youtube** o **Twitch** que permiten crear canales, suscribirse a ellos, y comentar, pareciéndose cada vez más a una red social propiamente dicha.
+
+Estas plataformas han ido evolucionando y permiten también editar el contenido desde la propia página web, o por ejemplo la **transmisión en directo**.
+
+![](img/2020-04-06-12-08-53.png)
+
 # Formatos de vídeo
 
-¿Cómo vamos a almacenar el vídeo?
+Muchas veces el problema con todas estas opciones y formatos es la **compatibilidad**. Un dispositivo es compatible con un tipo de vídeo si es capaz de reproducirlo sin problemas. Cada dispositivo graba en un formato diferente y podemos tener problemas a la hora de reproducirlos.
 
-![](img/2020-03-31-15-24-08.png)
 
 Tipos de archivos de vídeo:
 
-- AVI: Formato más extendido. Utilizado inicialmente en Windows
-- MOV: De Apple. Necesita reproductor específico
-- WMV: Formato de microsoft. Permite añadir protección de copyright
-- RV (Real video): Muy utilizado en streaming (transmisión por internet en tiempo real). Necesita reproductor específico
+| Extensión  | Formato de vídeo  |
+|---|---|
+| AVI  | Formato más extendido. Utilizado inicialmente en Windows  |
+| MOV  | De Apple. Necesita reproductor específico  |
+| WMV  | Formato de microsoft. Permite añadir protección de copyright.Ofrece soporte para la gestión digital de derechos, evitando que los usuarios puedan copiar la información, interesante para los vendedores de audio y vídeo digitales en línea.  |
+| MPG  | Compatibilidad mundial, compresión de audio y vídeo con poca perdida de calidad hace posible la fácil descarga de estos archivos en una web. |
+| MKV  | Muy utilizado en películas y series. Se utiliza este formato porque permite almacenar muchos datos en el mismo archivo. Por ejemplo, incluir pistas de audio en varios idiomas.
 
 # Tecnología 3D
 
-La tecnología 3D está basada en diferencia de percepción de los dos ojos. En el mundo real detectamos la profundidad de las cosas porque la luz llega un poco diferente a cada uno de nuestros dos ojos. Eso hace que veamos "en 3D".
+## Funcionamiento
 
-Al mirar una pantalla, todo lo que aparece está a la misma distancia, por lo que esta distancia se tiene que simular. Para ello se colorea el vídeo con conlores azules y rojos.
+La tecnología 3D está basada en diferencia de percepción de los dos ojos. En el mundo real detectamos la profundidad de las cosas porque la luz llega un poco diferente a cada uno de nuestros dos ojos. Si no te lo crees, cierra primero solo un ojo, luego solo el otro, y verás que lo que ves es diferente. Eso hace que veamos "en 3D".
+
+![](img/2020-04-06-11-55-35.png)
+
+
+Al mirar una pantalla, todo lo que aparece en ella está a la misma distancia de nosotros, por lo que esta distancia se tiene que simular. Para ello se colorea el vídeo con colores azules y rojos.
 
 ![](img/2020-03-31-15-24-50.png)
 
-Al colocarnos unas gafas 3D, cada ojo recibe una imagen ligeramente diferente, por el filtrado de cada lente. Esto es lo que produce la sensación de profundidad.
+Por supuesto, para simular esto necesitamos unas gafas. Al colocarnos unas gafas 3D, cada ojo recibe una imagen ligeramente diferente, por el filtrado de cada lente. Esto es lo que produce la sensación de profundidad.
 
 ![](img/2020-03-31-15-24-43.png)
 
@@ -201,4 +233,3 @@ Hoy en dia existen múltiples herramientas para videoconferencia, que nos permit
 - Google Hangouts
 
 Otras herramientas me permiten también compartir una pantalla, chatear al mismo tiempo o enviar documentos.
-
