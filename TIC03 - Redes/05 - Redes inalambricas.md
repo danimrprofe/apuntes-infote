@@ -21,19 +21,21 @@
     - [3.2	OBJETIVOS](#32-objetivos)
     - [3.3	CONFIGURACIÓN Y CONEXIÓN DE DISPOSITIVOS](#33-configuraci%c3%93n-y-conexi%c3%93n-de-dispositivos)
     - [3.4	EJEMPLOS](#34-ejemplos)
+- [4. Internet de las cosas](#4-internet-de-las-cosas)
+- [5. Pago contactless](#5-pago-contactless)
 
 ## 1. INTRODUCCIÓN
 
-Las redes más extendidas hasta hace poco eran las realizadas por medio de cables.  Si los ordenadores están próximos y permanecen siempre en el mismo sitio, esta puede ser la mejor opción.
+En este apartado hablaremos de las redes sin cables o **inalámbricas**. Las redes más extendidas hasta hace años eran las redes conectadas por medio de cables.  Si los ordenadores están relativamente próximos y permanecen siempre en el mismo sitio, esta puede ser la mejor opción. Sin embargo, hoy en día las redes inalámbricas están mucho más extendidas.
 
 La tecnología inalámbrica es especialmente útil si:
 
 - Si los ordenadores están alejados
-- Los cables pueden molestar
+- Los cables pueden molestar o son complicados de instalar.
 - Se quiere disfrutar de la conexión a Internet en cualquier rincón
 - La instalación de una red inalámbrica presenta muchas ventajas. La principal, es que no hay cables por en medio
 
-Las tecnologías de redes inalámbricas más extendidas son:
+Las **tecnologías** de redes inalámbricas más extendidas son:
 
 - Bluetooth
 - Telefonía móvil (3G, 4G)
@@ -42,6 +44,8 @@ Las tecnologías de redes inalámbricas más extendidas son:
 En general todos utilizamos una combinación de ellas, puesto que según el uso que queramos dar y dónde nos encontremos, nos serán más o menos convenientes.
 
 ![](img/2020-04-01-11-50-12.png)
+
+    Actividad 1 ¿Cuales de las tecnologías inalámbricas utilizas en casa y en qué situaciones? Imagina cómo pasarías el día de hoy si no tuvieras ninguna de ellas y cómo lo solucionarías.
 
 ## 2. WIFI
 
@@ -56,6 +60,8 @@ Por el contrario, también presentan algunos inconvenientes, como, por ejemplo:
 - No se puede controlar el área de **cobertura** de una conexión, de manera que un receptor se puede conectar desde fuera de la zona de recepción prevista (e.g. desde fuera de una oficina, desde una vivienda colindante).
 - No es **compatible** con otros tipos de conexiones sin cables como Bluetooth, GPRS, UMTS, etc.
 
+    Actividad 2. ¿Cuales de los inconvenientes anteriores son los que más has notado en tu casa o en el instituto al utilizar redes wifi?
+
 ### 2.1	ESTÁNDARES
 
 Un estándar son una serie de normas que definen las características de una red de área local inalámbrica (WLAN).
@@ -67,12 +73,14 @@ A los dispositivos certificados por la “WiFi Alliance” usan un logotipo como
 
 ![](img/2020-03-31-14-38-15.png)
 
+    Actividad 3: adjunta una captura de las redes wifi que detectas con tu móvil
+
 Según el tipo de conexión Wifi, tenemos diferentes “estándares” o versiones, que permiten diferentes tipos de conexiones, con velocidades y distancias diferentes. Algunas de ellas son:
 
-- 802.11b
-- 802.11g
-- 802.11a
-- 802.11n
+- 802.11**b**
+- 802.11**g**
+- 802.11**a**
+- 802.11**n**
 
 A medida que la investigación avanza, se crean versiones nuevas, que proporcionan más velocidad y/o cobertura, entre otras. En este recuadro podéis ver las diferencias entre algunas de las versiones:
 
@@ -80,7 +88,7 @@ A medida que la investigación avanza, se crean versiones nuevas, que proporcion
 
 Es importante que los equipos que se desea conectar a una red wifi entiendan el mismo “idioma” y por tanto utilicen versiones de wifi que entiendan todos.
 
-    Actividad: adjunta una captura de las redes wifi que detectas con tu móvil
+    Actividad 4: averigua que tipos de redes wifi admite tu router (a,b,n). Necesitas saber el modelo del router, que ya buscamos en otra práctica. Si puedes, busca la cobertura que tiene y la velocidad (mbps).
 
 ### 2.2. DISPOSITIVOS WIFI
 
@@ -138,17 +146,9 @@ La mayoría de dispositivos hoy en día disponen de adaptadores Wi-Fi en los cir
 ![](img/2020-03-31-14-40-01.png)
 
 
-    Actividad: explica qué equipos de tu casa están conectados a través de Wifi, y cuáles de los dispositivos anteriores utiliza cada uno de ellos para poderse conectar
+    Actividad 5: explica qué equipos de tu casa están conectados a través de Wifi.
 
-
-**Internet de las cosas**
-
-En la actualidad y en un futuro próximo, cualquier equipo eléctrico y electrónico (lavadoras, luces, neveras) de nuestra casa se podrá conectar a una red Wifi o Bluetooth y, por tanto a Internet. Esto se conoce como "internet de las cosas" o IoT.
-
-Esto, unido a los **asistentes de voz** como Alexa, Siri o Google home, abre un nuevo mundo de posibilidades, puesto que podemos dar órdenes con nuestra voz y así conseguir que otros equipos hagan ciertas cosas, como encender las luces, o ponernos una película en la televisión, por ejemplo.
-
-![](img/2020-04-03-11-29-55.png)
-
+    Actividad 6: Explica cuales de los dispositivos anteriores necesitaríamos para conectar a Internet un portátil que no tiene tarjeta de red wifi y un ordenador de sobremesa como los del aula de informática.
 
 ### 2.4	EQUIPOS DE RED
 
@@ -184,9 +184,9 @@ Pueden agregarse más puntos de acceso a una red para generar redes de cobertura
 
 ![](img/2020-03-31-14-40-54.png)
 
-    Actividad: Explica qué equipos de red de los anteriores tienes en tu casa, y adjunta una foto de ellos. 
+    Actividad 7: Explica qué equipos de red de los anteriores tienes en tu casa, y adjunta una foto de ellos. 
 
-    Actividad: ¿Cuales de ellos crees que te sería más útil si vivieras en una casa de 3 pisos? ¿Por qué?
+    Actividad 8: ¿Cuales de ellos crees que te sería más útil si vivieras en una casa de 3 pisos? ¿Por qué?
 
 ### 2.5	SEGURIDAD EN REDES WIFI
 
@@ -212,7 +212,16 @@ También podemos ver la clave, necesaria para podernos conectar. También tenemo
 
 ![](img/2020-03-31-14-41-29.png)
 
-    Actividad: adjunta una foto de la etiqueta de tu router. Tapa la clave a ser posible con paint o alguna herramienta de google docs. ¿Cuántas redes wifi tienes y cómo se llaman?¿a cual o cuales te conectas?
+Desde nuestro dispositivo portátil solo tenemos que buscar las redes wifi que tenemos a nuestro alcance y también podremos saber si:
+
+- Estan o no protegidas con contraseña
+- Nos llega señal suficiente
+- Tenemos algún problema de conexión a Internet
+
+![](img/2020-05-06-10-14-27.png)
+
+
+    Actividad 9: adjunta una foto de la etiqueta de tu router. Tapa la clave a ser posible con paint o alguna herramienta de google docs. ¿Cuántas redes wifi tienes y cómo se llaman?¿a cual o cuales te conectas?
 
 #### 2.5.2	REDES 5 GHZ Y 2.4 GHZ 
 
@@ -222,6 +231,14 @@ Muchos habréis visto que tenéis en casa o podéis tener dos redes wifi diferen
 - La de 2.4 GHz es mejor para chatear, enviar emails o navegar por la red.
 
 ![](img/2020-03-31-14-41-36.png)
+
+En la parte trasera del router suele aparecer la información con los nombres de las dos redes.
+
+![](img/2020-05-06-10-23-24.png)
+
+    Actividad 10. ¿Cuales de estas redes tienes en casa?¿Cómo se llaman?
+
+
 
 #### 2.5.3.	Bloquear el acceso utilizando filtrado MAC
 
@@ -237,7 +254,7 @@ En primer lugar, se crea una lista en el router, donde agregaremos todas las dir
 
 ![](img/2020-03-31-14-41-48.png)
 
-    Actividad: imagina que quieres bloquear el móvil de tus padres para que no se conecten a la wifi. Qué información necesitas saber de sus teléfonos y del router y qué pasos tienes que seguir para hacerlo?
+    Actividad 11: imagina que quieres bloquear el móvil de tus padres para que no se conecten a la wifi. Qué información necesitas saber de sus teléfonos y del router y qué pasos tienes que seguir para hacerlo?
 
 #### 2.5.4.	OCULTACIÓN DE RED
 
@@ -292,8 +309,7 @@ Para el funcionamiento se sigue una estructura maestro-esclavo y funciona del si
 
 Cuando se encuentra un dispositivo, se inicia un protocolo de seguridad basado en código. En ocasiones se nos pedirá un código. Se comprueba el código en el dispositivo maestro y en el esclavo. Si es el mismo, se establece el emparejamiento y comienza el traspaso de información.
 
-    Actividad: 
-    Habilita bluetooth en tu móvil y adjunta una captura de las conexiones bluetooth disponibles.
+    Actividad 12: Habilita bluetooth en tu móvil y adjunta una captura de las conexiones bluetooth disponibles.
 
 ### 3.4	EJEMPLOS
 
@@ -326,4 +342,46 @@ En este caso, la barra de sonido sí estaría conectada al televisor, pero el su
 
 ![](img/2020-03-31-14-42-30.png)
 
-    Actividad: de todos los ejemplos anteriores, explica cuales de ellos tenéis en casa tú o algún miembro de tu familia. ¿Qué inconvenientes crees que pueden tener?
+    Actividad 13: De todos los ejemplos anteriores, explica cuales de ellos tenéis en casa tú o algún miembro de tu familia. 
+    Actividad 14: ¿Qué inconvenientes crees que pueden tener los dispositivos anteriores comparándolos con su misma versión pero con cables?
+
+# 4. Internet de las cosas
+
+En la actualidad y en un futuro próximo, cualquier equipo eléctrico y electrónico (lavadoras, luces, neveras) de nuestra casa se podrá conectar a una red Wifi o Bluetooth y, por tanto a Internet. Esto se conoce como "internet de las cosas" o IoT.
+
+Esto, unido a los **asistentes de voz** como Alexa, Siri o Google home, abre un nuevo mundo de posibilidades, puesto que podemos dar órdenes con nuestra voz y así conseguir que otros equipos hagan ciertas cosas, como encender las luces, o ponernos una película en la televisión, por ejemplo.
+
+![](img/2020-04-03-11-29-55.png)
+
+    Actividad 15. Si tienes algún asistente de voz explica cual y para qué lo utilizas. 
+    Actividad 16. ¿Crees qué presentan algún problema en cuanto a la privacidad?
+
+# 5. Pago contactless
+
+Es un sistema de pago inalámbrico utilizando la **tecnología NFC** que nos permite realizar pagos con solo aproximar el medio de pago (tarjeta, móvil, smartwatch...) al terminal de pago (datáfono) compatible con esta tecnología.
+
+![](img/2020-04-20-08-57-04.png)
+
+Para poder usar estos servicios necesitamos:
+
+- Una tarjeta de crédito o débito o un smartphone con soporte para contactless.
+- Un datáfono con soporte para contacless.
+
+Así podemos utilizar, como forma de pago, nuestro móvil junto con alguna de las aplicaciones   de   cartera   virtual. Para ello, tenemos a nuestra dispositición muchas **apps** diferentes:
+
+- Google Pay
+- Apple Pay
+- Samsung Pay
+
+![](img/2020-04-01-12-01-25.png)
+
+Los bancos tienen también sus propias apps para los diferentes sistemas operativos:
+
+- BBVA Wallet
+- La-Caixa Wallet
+
+![](img/2020-05-06-10-12-30.png)
+
+Actividad 17: averigua si tu móvil tiene o no NFC y adjunta si es así una captura del menú de tu móvil donde se activa.
+
+Actividad 18: ¿alguien de tu familia utiliza NFC o tarjetas contactless? Explica en qué situaciones y piensa qué ventajas aporta hoy en día con la situación del COVID.

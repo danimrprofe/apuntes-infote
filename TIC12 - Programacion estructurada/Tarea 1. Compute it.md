@@ -33,4 +33,3 @@ http://silentteacher.toxicode.fr/hourofcode
 Introduccion visual a Python. En esta actividad manejarás una "tortuga", a la que habrá que dar instrucciones para que vaya haciendo determinadas acciones.
 
 https://hourofpython.com/una-introduccion-visual-a-python/bienvenido-a/una-hora-de-codigo.html
-
