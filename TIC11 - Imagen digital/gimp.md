@@ -1,19 +1,38 @@
-# ¿Qué es GIMP?
+- [1. ¿Qué es GIMP?](#1-qué-es-gimp)
+- [2. Instalar GIMP](#2-instalar-gimp)
+- [3. Comenzar a utilizar GIMP](#3-comenzar-a-utilizar-gimp)
+- [4. Trabajo con archivos](#4-trabajo-con-archivos)
+  - [Formatos de imagen XCF](#formatos-de-imagen-xcf)
+  - [Exportar](#exportar)
+- [5. LA DISPOSICION DE LA PANTALLA](#5-la-disposicion-de-la-pantalla)
+- [6. Preferencias](#6-preferencias)
+- [7. Consejos adicionales](#7-consejos-adicionales)
+- [Opciones de Herramientas](#opciones-de-herramientas)
+- [Zoom](#zoom)
+- [Mover](#mover)
+- [Dibujar](#dibujar)
+- [Capas](#capas)
+- [Seleccionar partes de la imagen](#seleccionar-partes-de-la-imagen)
+- [Escalar y transformar](#escalar-y-transformar)
+- [Texto](#texto)
 
-**GIMP** es una aplicación adecuada para la edición y composición de imágenes así como para el retoque fotográfico. Esta herramienta es gratuita y representa una excelente opción frente a otros programas comerciales como Adobe PhotoShop. 
+# 1. ¿Qué es GIMP?
+
+**GIMP** es una aplicación adecuada para la edición y composición de imágenes así como para el retoque fotográfico. Esta herramienta es gratuita y representa una excelente opción frente a otros programas comerciales como Adobe PhotoShop.
 
 # 2. Instalar GIMP
 
-Las prácticas las haremos en clase y en casa, por lo que tenéis que ir avanzando en vuestra casa los días que no vengáis a clase. Para instalar GIMP en vuestro ordenador, tenéis que ir a este enlace:
-https://www.gimp.org/downloads/
+Para instalar GIMP en vuestro ordenador, tenéis que ir a este enlace: https://www.gimp.org/downloads/
 
 # 3. Comenzar a utilizar GIMP
- 
+
 Os recomiendo comenzar a probarlo siguiendo esta pequeña guía inicial: http://formacion.intef.es/pluginfile.php/42882/mod_imscp/content/1/empezar_con_gimp.html
 
 **La caja de herramientas**
 
-La siguiente ventana que vamos a ver es **La Caja de Herramientas**. Es el corazón de Gimp y la ventana más importante. No se puede duplicar ni borrar (obviamente, esto cerraría Gimp). En ella se encuentran la mayoría de herramientas de Gimp (las cinco primeras filas de iconos ).
+La siguiente ventana que vamos a ver es **La Caja de Herramientas**. Es el corazón de Gimp y la ventana más importante. No se puede duplicar ni borrar (obviamente, esto cerraría Gimp). En ella se encuentran la mayoría de herramientas de Gimp 
+
+![](img/2020-12-15-17-36-07.png)
 
 **Cuadros de color**
 
@@ -23,15 +42,24 @@ Bajo las herramientas , los cuadrados negro y blanco, muestran el **color de fon
 
 A la derecha de estos, **brochas, patrones y degradados seleccionados**; pinchando sobre ellos, se abre el diálogo correspondiente. Por debajo de estos, una pequeña imagen de la imagen activa. Si pinchas sobre ella se abre el diálogo de imagen con una lista de las imágenes abiertas .Si sitúas el ratón sobre los distintos iconos aparecerá información sobre ellos y, en el caso de las herramientas, también muestra un atajo de teclado. 
 
-Desde **Archivo/Preferencias/Caja de Herramientas **se pueden habilitar o no que se muestren: Color de fondo y frente, Brochas, Patrones y Degradados, y Imagen activa.
+Desde **Archivo/Preferencias/Caja de Herramientas**se pueden habilitar o no que se muestren: Color de fondo y frente, Brochas, Patrones y Degradados, y Imagen activa.
 
-**Añadir un diálogo**
+# 4. Trabajo con archivos
 
-¿ Quieres añadir un diálogo a una ventana ? Pulsando sobre este icono , se abre el menú del diálogo activado, Añadir solapa y seleccionar el diálogo, se añadirá. En la imagen de la derecha, vemos un detalle, donde se han añadido el diálogos Paletas y Tipografías. Cuidado, el icono en forma de X quita el diálogo activo
+Para trabajar podemos crear un archivo nuevo, o bien abrir otro archivo ya existente.
 
-**Empotrar un diálogo**
+- Crear imagen Ctrl+N
+- Guardar Ctrl+S
+- Abrir imagen Ctrl+O
 
-¿Quieres empotrar un diálogo? Archivo/Diálogos, seleccionas el que te interese, aparecerá en una ventana, situando el cursor a la izquierda de , el cursor cambia a la forma de una mano, pulsa y arrastra hasta la barra de empotrar, en la parte inferior de la ventana ( resaltada en azul en el detalle de la derecha) y suelta.
+## Formatos de imagen XCF
+
+Puedes guardar tus progresos sobre una imagen en el formato nativo de **xcf**. De este modo se guardan las capas y preferencias por separado, y siempre podremos seguir editando el archivo desde Gimp.
+
+## Exportar
+
+Si queremos poder compartir y ver el archivo fuera de Gimp, tenemos que exportar el archivo a un formato de imagen, como **jpg, gif o png**.
+
 
 # 5. LA DISPOSICION DE LA PANTALLA
 
@@ -57,12 +85,6 @@ SIEMPRE puedes recuperar la configuración predeterminada pulsando sobre: Restau
 
 # 7. Consejos adicionales
 
-**Formatos de imagen XCF**
-
-Puedes guardar tus progresos sobre una imagen en el formato nativo de Gimp XCF, siempre podrás guardarlos en otro formato de los muchos soportados por Gimp, después.
-
-Cada imagen se muestra en una Ventana de Imagen independiente. Puedes tener varias abiertas a la vez.
-
 # Opciones de Herramientas
 
 Es un diálogo empotrable, en este caso está 	empotrada a la Caja de Herramientas, te permite configurar distintos 	parámetros de la herramienta seleccionada, en este caso el 	Pincel.
@@ -80,33 +102,56 @@ El diálogo Deshacer te permite volver a un estado anterior o posterior de la ma
 
 Otro diálogo empotrable con tres solapas que te permite seleccionar los distintos tipos disponibles de Brochas, Patrones y Degradados.
 
-# 4. Prácticas
+# Zoom
 
-Tienes una colección de prácticas de GIMP en la tarea “Prácticas GIMP (Enunciados)”. Las tenéis que hacer a vuestro ritmo, tanto en clase como en casa, hasta donde llegues. La nota dependerá de las prácticas que realices y cómo estén hechas.
+Alejarnos o acercarnos con **Ctrl + rueda** (ratón). Otros zooms rápidos son:
 
-En la misma tarea, debéis entregar cada ejercicio, en formato jpg, con el nombre de la práctica y vuestras iniciales:
+- 1 para tamaño real
+- 2,3,4,5 para doble, triple, etc.
 
-- DMR_Practica01.jpg
-- DMR_Practica02.jpg
+Otras opciones:
 
-# 5. Atajos de GIMP
+- Centrar imagen con shift + J
 
-- Archivos
-  - Crear imagen Ctrl+N
-  - Guardar Ctrl+S
-  - Abrir imagen Ctrl+O
-- Capas
-  - Abrir diálogo de capas Ctrl+L
-  - Abrir una imagen como capa Ctrl+Alt+O 
-  - Pegar como capa: Ctrl + shift + V
-  - Combinar capas visibles: Ctrl+M
-- Selecciones
-  - Selección rectangular: R
-  - varita mágica U
-  - Mover M
-  - Escalar Shift+T
-  - Texto T
-- Dibujar
-  - Lápiz N
-  - Pincel E
-  - goma Shift+E
+# Mover
+
+- Mover M
+- Pulsando la rueda del ratón también podemos mover
+
+# Dibujar
+
+Tenemos diferentes herramientas de dibujo, como por ejemplo:
+
+- Lápiz N
+- Pincel P
+- Goma de borrar Shift+E
+
+# Capas
+
+Las capas nos permiten tener partes de la composición separadas, y solo trabajar sobre las que queremos, sin afectar a las demás.
+
+- Para abrir el diálogo de capas: Ctrl+L
+- Abrir una imagen de un archivo como capa: Ctrl+Alt+O
+- Pegar como capa: Ctrl + shift + V
+- Combinar capas visibles: Ctrl+M
+
+# Seleccionar partes de la imagen
+
+Crear selecciones nos permite decidir sobre qué parte de la imagen queremos actuar. Se pueden hacer con diferentes formas:
+
+- Selección rectangular: R
+- Seleección elipse: E
+
+Otras herramientas nos permiten crear selecciones automáticas basadas en colores o bien manuales, para formas irregulares:
+
+- varita mágica U
+
+# Escalar y transformar
+
+Utilizando Shift+T:
+
+![](img/2020-12-15-17-55-44.png)
+
+# Texto
+
+- Texto T
