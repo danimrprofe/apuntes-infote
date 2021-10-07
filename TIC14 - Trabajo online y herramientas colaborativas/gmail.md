@@ -1,4 +1,4 @@
-Durante esta explicación aprenderemos
+# Durante esta explicación aprende
 
 - Sesión. Login, cierre, guardado de contraseña.
 - Mantener más de una cuenta abierta. Perfiles
@@ -15,7 +15,7 @@ Durante esta explicación aprenderemos
   - Marcar com a llegit
   - Arxivar i esborrar
 - Borrar correo, papelera, SPAM
-- Configuración rápida i configuración completa
+- Configuración rápida y configuración completa
 - Contactos. Agregar y editar. Grupos
 - Archivar correo. Etiquetas
 - Filtros de correo
