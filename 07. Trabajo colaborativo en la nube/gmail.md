@@ -1,5 +1,7 @@
 # Durante esta explicación aprende
 
+![](img/2021-10-07-11-29-55.png)
+
 - Sesión. Login, cierre, guardado de contraseña.
 - Mantener más de una cuenta abierta. Perfiles
 - Enviar correo
