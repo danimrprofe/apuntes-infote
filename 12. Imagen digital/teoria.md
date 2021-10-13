@@ -1,23 +1,23 @@
-- [1	TIPOS DE IMÁGENES](#1-tipos-de-im%c3%81genes)
-  - [1.1	IMÁGENES ANALÓGICAS Y DIGITALES](#11-im%c3%81genes-anal%c3%93gicas-y-digitales)
-  - [1.2	VENTAJAS DE LA IMAGEN DIGITAL:](#12-ventajas-de-la-imagen-digital)
-- [2	TIPOS DE IMÁGENES DIGITALES:](#2-tipos-de-im%c3%81genes-digitales)
-  - [2.1	IMÁGENES DE MAPAS DE TOS (BITMAPS)](#21-im%c3%81genes-de-mapas-de-tos-bitmaps)
-  - [2.2	IMÁGENES VECTORIALES](#22-im%c3%81genes-vectoriales)
-- [3	RESOLUCIÓN:](#3-resoluci%c3%93n)
-- [4	COLOR:](#4-color)
-  - [4.1	PROFUNDIDAD DE COLOR (PROFUNDIDAD DE PÍXEL):](#41-profundidad-de-color-profundidad-de-p%c3%8dxel)
+- [1	TIPOS DE IMÁGENES](#1tipos-de-imágenes)
+  - [1.1	IMÁGENES ANALÓGICAS Y DIGITALES](#11imágenes-analógicas-y-digitales)
+  - [1.2	VENTAJAS DE LA IMAGEN DIGITAL:](#12ventajas-de-la-imagen-digital)
+- [2	TIPOS DE IMÁGENES DIGITALES:](#2tipos-de-imágenes-digitales)
+  - [2.1	IMÁGENES DE MAPAS DE TOS (BITMAPS)](#21imágenes-de-mapas-de-tos-bitmaps)
+  - [2.2	IMÁGENES VECTORIALES](#22imágenes-vectoriales)
+- [3	RESOLUCIÓN:](#3resolución)
+- [4	COLOR:](#4color)
+  - [4.1	PROFUNDIDAD DE COLOR (PROFUNDIDAD DE PÍXEL)](#41profundidad-de-color-profundidad-de-píxel)
   - [4.2. MODOS DE COLOR](#42-modos-de-color)
   - [4.3. COLOR HSB](#43-color-hsb)
-  - [4.4	COLOR RGB](#44-color-rgb)
-  - [4.5	COLOR CMYK](#45-color-cmyk)
-- [5.ADQUISICIÓN DE IMÁGENES](#5adquisici%c3%93n-de-im%c3%81genes)
-- [6	FORMATOS DE ARCHIVO.](#6-formatos-de-archivo)
-- [7	COMPRESIÓN](#7-compresi%c3%93n)
-  - [7.1.1	COMPRESIÓN CON PÉRDIDA](#711-compresi%c3%93n-con-p%c3%89rdida)
-    - [7.1.2	COMPRESIÓN SIN PÉRDIDA](#712-compresi%c3%93n-sin-p%c3%89rdida)
+  - [4.4	COLOR RGB](#44color-rgb)
+  - [4.5	COLOR CMYK](#45color-cmyk)
+- [5.ADQUISICIÓN DE IMÁGENES](#5adquisición-de-imágenes)
+- [6	FORMATOS DE ARCHIVO.](#6formatos-de-archivo)
+- [7	COMPRESIÓN](#7compresión)
+  - [7.1.1	COMPRESIÓN CON PÉRDIDA](#711compresión-con-pérdida)
+    - [7.1.2	COMPRESIÓN SIN PÉRDIDA](#712compresión-sin-pérdida)
 - [8. FORMATOS DE ARCHIVOS MAPA DE BITS](#8-formatos-de-archivos-mapa-de-bits)
-- [9. EDICIÓN DE IMÁGENES DIGITALES](#9-edici%c3%93n-de-im%c3%81genes-digitales)
+- [9. EDICIÓN DE IMÁGENES DIGITALES](#9-edición-de-imágenes-digitales)
 
 
 EDICIÓN DIGITAL DE IMÁGENES
@@ -75,8 +75,7 @@ La resolución óptima que debe tener una imagen para imprimir es de 300 ppp
 En cuanto al tamaño de la imagen en un monitor, depende de la configuración del monitor.
 
 Por ejemplo, en un monitor de 15 pulgadas con la configuración típica de 800 píxeles horizontales y 600 verticales, una imagen con dimensiones de 800 x 600 píxeles llenaría toda la pantalla. En un monitor de 17 pulgadas con un ajuste, también, de 800 x 600 píxeles, la misma imagen volvería a llenar la pantalla, pero cada uno de los píxeles tendría un tamaño mayor. Si se camba la configuración de este segundo monitor a 1024 x 768 píxeles, la imagen se mostraría en un tamaño más pequeño, sin llegar a ocupar toda la pantalla.
-Mira este	ejemplo,	verás	como una	imagen con la	misma	dimensión	en	píxeles	es mostrada de forma
-distinta en un mismo monitor con configuraciones distintas.
+Mira este	ejemplo,	verás	como una	imagen con la	misma	dimensión	en	píxeles	es mostrada de forma distinta en un mismo monitor con configuraciones distintas.
 
 El tamaño o medida de una imagen son sus dimensiones reales en términos de anchura y aura una vez impresa, mientras	que el	tamaño del archivo	se	refiere	a	la	cantidad	de memoria	física	necesaria	para almacenar la información de la imagen digitalizada en cualquier soporte informático de almacenamiento.
 
@@ -90,7 +89,7 @@ El tamaño del archivo que genera una imagen digitalizada es proporcional, lógi
 
 # 4	COLOR:
 
-## 4.1	PROFUNDIDAD DE COLOR (PROFUNDIDAD DE PÍXEL):
+## 4.1	PROFUNDIDAD DE COLOR (PROFUNDIDAD DE PÍXEL)
 
 Se llama profundidad de color a la cantidad de colores diferentes que pueden presentarse en una imagen. Para almacenar esta información se asigna un número de bits para indicar el color de cada pixel. 
 
@@ -101,6 +100,8 @@ Número de bits	Combinaciones posibles	Número de colores
 8	28	256
 16	216	Aprox 65000
 24	^24_	16,7 millones
+
+![](img/2021-10-13-09-32-39.png)
 
 ## 4.2. MODOS DE COLOR
 
@@ -120,20 +121,23 @@ Está basado en el modo en que el ojo humano percibe el color, por lo tanto se t
 
 ## 4.4	COLOR RGB
 
-Este modo es el más cercano al ser el que se usa en la iluminación artif cial y en la mayoría de monitores y pantallas gráf cas proporcionando la mayoría del espectro visible mezclando las luces generadas por fósforos rojos, verdes y azules. Estos tres colores primarios crean el banco cuando se combinan simultáneamente por eso se llaman también "aditivos"
+Este modo es el más cercano al ser el que se usa en la iluminación artificial y en la mayoría de monitores y pantallas gráficas proporcionando la mayoría del espectro visible mezclando las luces generadas por fósforos rojos, verdes y azules. Estos tres colores primarios crean el banco cuando se combinan simultáneamente por eso se llaman también "aditivos".
+
+![](img/2021-10-13-09-32-02.png)
+
 Teniendo en cuenta que en la memoria del ordenador (a RAM), la memoria está organizada en boques de 8 bits (1 byte) para almacenar los datos, por tanto en 1 byte se pueden almacenar 256 colores. Por ello, en cada canal:
 
-- Rojo	Presenta 28 tonalidades diferentes, es decir 256 tonalidades.
-- Verde	Presenta 2 tonalidades diferentes, es decir 256 tonalidades.
-- Azul	Presenta 2 tonalidades diferentes, es decir 256 tonalidades.
+- **Rojo**	Presenta 28 tonalidades diferentes, es decir 256 tonalidades.
+- **Verde**	Presenta 2 tonalidades diferentes, es decir 256 tonalidades.
+- **Azul**	Presenta 2 tonalidades diferentes, es decir 256 tonalidades.
 
-Por ello, cada píxel podrá tener: 256x256x256 = 16 millones de colores diferentes
+Por ello, cada píxel podrá tener: 256x256x256 = **16 millones de colores diferentes**
 
 ## 4.5	COLOR CMYK
 
 Este sistema responde a una idea totalmente opuesta al anterior, puesto que, en vez de basarse en una fuente de luz para generar las mezclas de los colores primarios, se basa en la propiedad de la tinta impresa en papel de absorber la luz que recibe.
 
-Cuando una luz banca incide sobre tintas translúcidas, éstas absorben parte del espectro de modo que el color no absorbido se refeja. En el plano teórico, los pigmentos mezclados de cián, magenta y amarillo deberían absorber todo el espectro, produciendo, en consecuencia, negro. Por esta razón son llamados "colores sustractivos". En la práctica todas las tintas contienen impurezas y ello ocasiona que la mezcla genere un color marrón oscuro, sendo necesario perfilar con tinta negra para conseguir un color negro auténtico.
+Cuando una luz banca incide sobre tintas translúcidas, éstas absorben parte del espectro de modo que el color no absorbido se refleja. En el plano teórico, los pigmentos mezclados de cián, magenta y amarillo deberían absorber todo el espectro, produciendo, en consecuencia, negro. Por esta razón son llamados "colores sustractivos". En la práctica todas las tintas contienen impurezas y ello ocasiona que la mezcla genere un color marrón oscuro, siendo necesario perfilar con tinta negra para conseguir un color negro auténtico.
 
 # 5.ADQUISICIÓN DE IMÁGENES
 
@@ -142,13 +146,13 @@ Se pueden obtener imágenes digitales de diferentes maneras:
 -	Por digitalización de imágenes analógicas (escaneado)
 - Por una cámara digital.
 - Bajándolas de Internet.
-- De diferentes soportes (CD, DVD, memorias fash,...)
+- De diferentes soportes (CD, DVD, memorias flash,...)
 - Creándolas con un editor de imágenes.
 
-Origen de la imagen	Características
-Digitalización de imágenes	Se pueden obtener imágenes con profundidad de color de 8 bits (16 millones de colores). Se puede ajustar la resolución del escáner y seleccionar el formato de las imágenes (gif, jpg, tif,...)
-Fotografías digitales	Las imágenes son de alta calidad. Normalmente trabaja con archivos jpg y raw y en algunos casos tif.
-Imágenes de Internet	Son imágenes de baja resolución (72 ppp), optimizadas a diferentes formaos (gif, jpg, pn...)
+Tipos de imágenes más habituales
+
+- Fotografías digitales	Las imágenes son de alta calidad. Normalmente trabaja con archivos jpg y raw y en algunos casos tif.
+- Imágenes de Internet	Son imágenes de baja resolución (72 ppp), optimizadas a diferentes formaos (gif, jpg, pn...)
 
 # 6	FORMATOS DE ARCHIVO.
 
@@ -179,36 +183,36 @@ compresión son menores con estos sistemas pero a veces el sacrificio merece la 
 Formaos de archivos vectoriales
 
 
-| Extensión | Características |
-|---|---|
-| wmf	|Es típico de las aplicaciones de Windows. |
-| odg	|Corresponde al estándar abierto de documentos (odt) de OpenOfice.org |
-| cdr	|Típico de la aplicación Corel Draw. |
-| swf	|Animación de Macromedia Flash. |
-| dxf	|Utilizado en programas de arquitectura, como Autocad o Qcad. |
+| Extensión | Características                                                      |
+| --------- | -------------------------------------------------------------------- |
+| wmf       | Es típico de las aplicaciones de Windows.                            |
+| odg       | Corresponde al estándar abierto de documentos (odt) de OpenOfice.org |
+| cdr       | Típico de la aplicación Corel Draw.                                  |
+| swf       | Animación de Macromedia Flash.                                       |
+| dxf       | Utilizado en programas de arquitectura, como Autocad o Qcad.         |
 
 # 8. FORMATOS DE ARCHIVOS MAPA DE BITS
 
-| Extensión | Características |
-|---|---|
-| bmp	 | Formato típ^ico de Paint. No pierden calidad aunque se manipulen muchas veces. Profundidad de color de 24 bits (16 millones de colores) Se puede comprimir sin pérdidas. No admite transparencias. |
-| gif | Profundidad de color de 8 bits (256 colores) Se puede comprimir sin pérdidas. Admite transparencias. |
-| jpg o jpeg | Profundidad de color de 24 bits (16 millones de colores) Se puede comprimir con pérdidas, pero el usuario puede elegir el grado de compresión. No admite transparencias. |
-| png | 	Profundidad de color de 24 bits (16 millones de colores) o de 8 bits (256 colores) Se puede comprimir sin pérdidas. Admite transparencias. |
-| tif o tiff | 	Profundidad de color de hasta 64 bits. Se puede comprimir sin pérdidas. Admite transparencias. Es ideal para imprimir. | 
-| xcf	 | Archivo original de Gimp.Profundidad de color de 8 bits por canal (16 millones de colores) Admite transparencias | 
-| psd | 	Archivo original de Photoshop Document. Profundidad de color de 8 bits por canal (16 millones de colores). Admite transparencias |
-| raw | 	Condene la información de la imagen tal y como fue adquirida por el sensor. | 
-| pict o pct	 | Formato de imagen de Macintosh Profundidad de color de hasta 64 bits Se puede comprimir sin pérdidas. Admite transparencias.  |
+| Extensión  | Características                                                                                                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| bmp        | Formato típ^ico de Paint. No pierden calidad aunque se manipulen muchas veces. Profundidad de color de 24 bits (16 millones de colores) Se puede comprimir sin pérdidas. No admite transparencias. |
+| gif        | Profundidad de color de 8 bits (256 colores) Se puede comprimir sin pérdidas. Admite transparencias.                                                                                               |
+| jpg o jpeg | Profundidad de color de 24 bits (16 millones de colores) Se puede comprimir con pérdidas, pero el usuario puede elegir el grado de compresión. No admite transparencias.                           |
+| png        | Profundidad de color de 24 bits (16 millones de colores) o de 8 bits (256 colores) Se puede comprimir sin pérdidas. Admite transparencias.                                                         |
+| tif o tiff | Profundidad de color de hasta 64 bits. Se puede comprimir sin pérdidas. Admite transparencias. Es ideal para imprimir.                                                                             |
+| xcf        | Archivo original de Gimp.Profundidad de color de 8 bits por canal (16 millones de colores) Admite transparencias                                                                                   |
+| psd        | Archivo original de Photoshop Document. Profundidad de color de 8 bits por canal (16 millones de colores). Admite transparencias                                                                   |
+| raw        | Condene la información de la imagen tal y como fue adquirida por el sensor.                                                                                                                        |
+| pict o pct | Formato de imagen de Macintosh Profundidad de color de hasta 64 bits Se puede comprimir sin pérdidas. Admite transparencias.                                                                       |
 
 # 9. EDICIÓN DE IMÁGENES DIGITALES
 
 Existen infinidad de aplicaciones para editar o crear imágenes.
 
-| Programas	| Aplicaciones	| Tipos de imágenes |
-|---|---|---|
-| Paint GIMP Photoshop Paint Shop Pro Picassa Irfan View	| Retoque fotográfico, gráfico, visores de imágenes, etc. | Mapas de bits | 
-| Corel Draw, FreeHand, Inkscape, Illustrator	| Dibujo artístico| 	Imagines vectoriales| 
-| AutoCad, AutoSketch, Qcad. CATIA	| Ingeniería y arquitectura. Dibujo técnico en 2D y 3D	| | 
-| 3D Studio Max, Blender | Diseño 3D | |
+| Programas                                              | Aplicaciones                                            | Tipos de imágenes    |
+| ------------------------------------------------------ | ------------------------------------------------------- | -------------------- |
+| Paint GIMP Photoshop Paint Shop Pro Picassa Irfan View | Retoque fotográfico, gráfico, visores de imágenes, etc. | Mapas de bits        |
+| Corel Draw, FreeHand, Inkscape, Illustrator            | Dibujo artístico                                        | Imagines vectoriales |
+| AutoCad, AutoSketch, Qcad. CATIA                       | Ingeniería y arquitectura. Dibujo técnico en 2D y 3D    |                      |
+| 3D Studio Max, Blender                                 | Diseño 3D                                               |                      |
 

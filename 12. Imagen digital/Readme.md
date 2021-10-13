@@ -1,3 +1,5 @@
+
+
 # Imatge digital
 
 ## Obtenció d'imatges digitals 
@@ -11,7 +13,7 @@
 ## Transferència i digitalització
 
 - Passar fotos a l’ordinador. USB, Google Photos, Google Drive.
-- Digitalitzar documents: Google Drive
+- Digitalizar documentos edsde la app de **Google Drive**
 - Aplicacions: Google Lens. (Resolver ecuaciones) QR
 
 ## Característiques d’una imatge
@@ -31,21 +33,12 @@ Sistemes de color: RGB, CMYK. Profunditat de color. Pantone
 
 ## Muntatges i edició amb GIMP. 
 
+
+
 - Modificar la lluminositat i el color.  
 - Treballar amb seleccions, Màscares i capes. 
 - Composició de fotografies.  Treballar amb textos.  
 - Aplicar filtres i estils de capa. Capes y máscares
 
-## Descàrrega Gimp: 
 
-- Gimp
-
-##  Tutorial Gimp: 
-
-Te enseño a usar GIMP en 26 minutos (edición de imágenes)
-
-- Crear un thumbnail a partir de una foto
-- Varita mágica
-- Capas
-- Clonar
 
